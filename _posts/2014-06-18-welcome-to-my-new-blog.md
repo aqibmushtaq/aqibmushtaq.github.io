@@ -9,7 +9,7 @@ tumblr_url: http://aqibnow.com/post/89141281112/welcome-to-my-new-blog
 ---
 
 
-Started my new job as an Application Developer at ServiceNow after completing my internship a year ago. Therefore I thought it was appropriate to get this domain - AqibNOW!
+Started my new job as an Application Developer at ServiceNow after completing my internship in 2013. Therefore I thought it was appropriate to get this domain - AqibNOW!
 
 <!--break-->
 
