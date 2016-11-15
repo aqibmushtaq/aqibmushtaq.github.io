@@ -5,7 +5,7 @@ meta_description: "Blog of an Application Developer at ServiceNow Aqib Mushtaq"
 aboutPage: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
