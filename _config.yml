@@ -4,7 +4,7 @@ meta_description: "Blog of an Application Developer at ServiceNow Aqib Mushtaq"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 20
@@ -41,3 +41,6 @@ defaults:
             type: drafts
         values:
             layout: post
+
+# Gems
+gems: [jekyll-paginate]
