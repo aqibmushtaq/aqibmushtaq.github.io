@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Strip out HTML tags"
+title:  "Strip out HTML tags in JavaScript"
 date: 2016-11-17T12:15:00+00:00
 tags:
 - ServiceNow
 - Strip HTML tags
 - Server Script
+- JavaScript
 ---
 
 In cases where you're getting information from external sources, you may need to strip out HTML tags.
