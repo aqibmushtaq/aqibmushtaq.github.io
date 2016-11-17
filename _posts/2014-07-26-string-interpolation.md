@@ -2,7 +2,7 @@
 layout: post
 title: String interpolation
 date: '2014-07-26T14:49:20+01:00'
-tags: []
+tags: [ServiceNow, Interpolation]
 tumblr_url: http://aqibnow.com/post/92919417162/string-interpolation
 ---
 String interpolation can be achieved using gs.getMessage() in ServiceNow; it’s very similar to Java’s MessageFormat class.

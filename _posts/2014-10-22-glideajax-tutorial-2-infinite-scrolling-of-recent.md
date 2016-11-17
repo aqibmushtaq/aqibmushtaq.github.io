@@ -2,7 +2,7 @@
 layout: post
 title: 'GlideAjax Tutorial 2: Infinite Scrolling of Recent Incidents'
 date: '2014-10-22T22:44:04+01:00'
-tags: []
+tags: [ServiceNow, GlideAjax, Ajax, Asynchronous, JavaScript, GlideRecord]
 tumblr_url: http://aqibnow.com/post/100696263337/glideajax-tutorial-2-infinite-scrolling-of-recent
 ---
 

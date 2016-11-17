@@ -2,7 +2,7 @@
 layout: post
 title: Output dynamically generated HTML in Jelly
 date: '2014-10-21T21:08:36+01:00'
-tags: []
+tags: [ServiceNow, Jelly, HTML]
 tumblr_url: http://aqibnow.com/post/100606790422/output-dynamically-generated-html-in-jelly
 ---
 It can be a pain trying to output some HTML stored within a variable using Jelly. When printing an expression with Jelly, it is automatically escaped.
