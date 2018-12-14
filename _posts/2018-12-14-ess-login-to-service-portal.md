@@ -1,6 +1,5 @@
 ---
 title:  "Take ESS User Directly to the Service Portal"
-date: 2017/12/13
 date: '2018-12-14T09:00:00+01:00'
 tags:
 - serviceportal
