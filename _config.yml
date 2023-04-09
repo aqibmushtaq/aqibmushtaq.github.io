@@ -1,4 +1,5 @@
 name: AqibNow
+title: AqibNow
 description: Blog of a ServiceNow Developer at TESM
 meta_description: "Blog of a ServiceNow Developer at TESM"
 
@@ -43,4 +44,4 @@ defaults:
             layout: post
 
 # Gems
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
