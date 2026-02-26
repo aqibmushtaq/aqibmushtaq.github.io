@@ -11,7 +11,7 @@ highlighter: rouge
 paginate: 20
 baseurl: /
 domain_name: 'http://aqibnow.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'G-TFXQG20PDN'
 disqus: true
 disqus_shortname: 'aqibnow'
 github: []
