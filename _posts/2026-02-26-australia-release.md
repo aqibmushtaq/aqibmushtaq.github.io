@@ -15,7 +15,7 @@ The evolution of the ServiceNow AI Platform achieves a pivotal milestone with th
 
 ### Executive Summary: The ServiceNow Australia Release 2026
 
-The upcoming Australia release (Q1/Q2 2026) marks a significant advancement in digital capabilities, shifting from manual workflows to **Agentic AI**—a digital workforce capable of autonomous action. This release focuses on unified intelligence, refined security, and industry-specific automation.   
+The upcoming Australia release (Q1/Q2 2026) marks a significant advancement in digital capabilities, shifting from manual workflows to **Agentic AI**-a digital workforce capable of autonomous action. This release focuses on unified intelligence, refined security, and industry-specific automation.   
 
 **Top 20 Upcoming Features:**
 
