@@ -1,7 +1,7 @@
 name: AqibNow
 title: AqibNow
-description: Blog of a ServiceNow Developer at TESM
-meta_description: "Blog of a ServiceNow Developer at TESM"
+description: Blog of a ServiceNow Consultant
+meta_description: "Blog of a ServiceNow Consultant"
 
 aboutPage: true
 
@@ -19,7 +19,6 @@ github: []
 # Details for the RSS feed generator
 url:            'http://aqibnow.com'
 author:         'Aqib Mushtaq'
-authorTwitter:  'aqibmushtaq'
 
 permalink:       /:year/:title/
 

@@ -6,10 +6,8 @@ profile: true
 
 <img src="/assets/images/about-welcome.jpg"/>
 
-Started my new job as an Application Developer at ServiceNow after completing my internship in 2013. Therefore I thought it was appropriate to get this domain - AqibNOW!
+As a developer and consultant, I have been utilising ServiceNow since 2012 to enhance the platform and assist clients in enhancing their efficiency.
 
-As a developer I will focus on posting tips and tutorials about the ServiceNow platform. There will also be posts about the Agile principles that we’ve adopted in our development team.
-
-I will update this blog as I learn new things (hopefully very frequently!).
+This blog is intended for ServiceNow developers and consultants, offering tips and best practices based on my own experience.
 
 {% include footer.html %}
