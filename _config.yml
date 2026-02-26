@@ -1,7 +1,7 @@
 name: AqibNow
 title: AqibNow
-description: Blog of a ServiceNow Consultant
-meta_description: "Blog of a ServiceNow Consultant"
+description: Blog of a ServiceNow Architect
+meta_description: "Blog of a ServiceNow Architect"
 
 aboutPage: true
 
@@ -43,4 +43,8 @@ defaults:
             layout: post
 
 # Gems
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-compose
+  - jekyll-feed

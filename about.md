@@ -4,10 +4,12 @@ permalink: about/
 profile: true
 ---
 
-<img src="/assets/images/about-welcome.jpg"/>
+I am a **Certified Technical Architect (CTA)** with over 13 years of experience in the ServiceNow ecosystem, specialising in high-stakes digital transformations within the Global Banking and Healthcare sectors.
 
-As a developer and consultant, I have been utilising ServiceNow since 2012 to enhance the platform and assist clients in enhancing their efficiency.
+My career has been defined by a transition from hands-on delivery to **Strategic Advisory and Governance**. I'm the person who bridges the gap between complex functional requirements and a sustainable, **Clean Core** platform strategy.
 
-This blog is intended for ServiceNow developers and consultants, offering tips and best practices based on my own experience.
+The Mission
+----
+My focus is on long-term Value. I believe that architectural integrity is the only path to an evergreen platform. By eliminating the upgrade tax and resolving legacy technical debt, I help organisations build foundations that are not just stable, but structurally ready to adopt the next generation of AI-driven innovation.
 
 {% include footer.html %}
